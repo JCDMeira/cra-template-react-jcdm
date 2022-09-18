@@ -15,10 +15,9 @@
 
 # 📋 Indíce
 
-- [Proposta](#id01)
+- [Proposta / objetivos ](#id01)
   - [O desafio](#id01.1)
-    - [Requisitos não funcionais ](#id01.1.1)
-    - [Requisitos não obrigatórios](#id01.1.2)
+  - [O que eu aprendi](#id01.2)
 - [Screenshots](#id02)
 - [Links](#id03)
 - [Feito com](#id04)
